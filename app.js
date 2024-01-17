@@ -15,3 +15,5 @@ console.log(displayMessage);
 console.log(typeof result);
 console.log(typeof message);
 
+const roundNumber = Number (result);
+console.log(result);
